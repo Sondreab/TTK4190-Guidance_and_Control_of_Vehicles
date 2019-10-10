@@ -1,3 +1,9 @@
 [submodule "TTK4190_assignment3"]
 	path = TTK4190_assignment3
 	url = https://github.com/adalarsen/TTK4190_assignment3.git
+[submodule "TTK4190-assignment_1"]
+	path = TTK4190-assignment_1
+	url = https://github.com/Sondreab/TTK4190-assignment_1.git
+[submodule "TTK4190-assignment_2"]
+	path = TTK4190-assignment_2
+	url = https://github.com/Sondreab/TTK4190-assignment_2.git
